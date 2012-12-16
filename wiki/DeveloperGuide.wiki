@@ -1,0 +1,9 @@
+#labels Phase-Implementation
+=Developer guide=
+
+This page summarize what have to be installed in order to run/futher develop this software.
+
+  # Python 2.7 [http://python.org/
+  # gdata python client [http://python.org/]
+  # PyQt4 [http://www.riverbankcomputing.co.uk/software/pyqt/download]
+  # BeautifulSoup [http://www.crummy.com/software/BeautifulSoup/#Download]
